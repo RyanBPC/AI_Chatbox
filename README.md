@@ -1,4 +1,4 @@
-# AI Chatbox (Python)
+# AI Chatbot (Python)
 
 An AI chatbot I built because I was curious about how AI APIs actually work. I wanted to know what happens behind the scenes when people use an AI like ChatGPT.
 
@@ -32,4 +32,9 @@ Throughout this project, it taught me a lot about how AI APIs work and how to st
 
 ## How It's Laid Out
 
-
+```
+AI_Chatbot/
+│
+├─ .env
+└─ AI_Chatbot.py
+```
