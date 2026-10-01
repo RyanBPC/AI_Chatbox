@@ -45,7 +45,7 @@ Each file does its own thing, and together they make the chatbot program work.
 
 ## How To Use It
 
-1. **Download my files off GitHub
+1. **Download my files off GitHub**
    - Go into the AI_Chatbot folder
    - Download both AI_Chatbot.py and .env files
    - Open both these files in your IDE (I used PyCharm)
