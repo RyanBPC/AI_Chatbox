@@ -77,7 +77,9 @@ Each file does its own thing, and together they make the chatbot program work.
 
 6. **Have a chat with the AI assistant**
    - You'll see something like this:
+
      <img width="1162" height="197" alt="Chatbot Running" src="https://github.com/user-attachments/assets/ee678740-ff27-42e5-a18e-e67bcb280c8d" />
+
    - Type your question and hit Enter
    - The AI will then reply!
    - Once your done, type "bye"
