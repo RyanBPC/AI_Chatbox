@@ -91,8 +91,11 @@ Each file does its own thing, and together they make the chatbot program work.
 Problem -> Solution:
 
 ```pip is not recognised``` -> Use ```python -m pip install groq python-dotnev``` instead
+
 ```No module named 'qroq'``` -> Make sure you ran ```pip install groq python-dotnev```
+
 ```Error: No API key found!``` -> Check that your .env file is in the right place
+
 ```.env file not working``` -> Make sure it's called exactly .env (not another file name)
   
 ---
